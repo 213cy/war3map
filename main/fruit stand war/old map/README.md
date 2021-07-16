@@ -19,4 +19,4 @@
 * Chao Nan Fang Yu Zhan B.w3x  :原版"少一人都会输的超难防御战"魔兽地图
 * Chao Nan Fang Yu Zhan B.w3g  :原版地图通关录像
 * fruit stand war *.*.w3x :"水果摊保卫战"地图
-* *.*版通关录像*-*-*.w3g :"水果摊保卫战"通关录像
+
