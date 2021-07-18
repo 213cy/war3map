@@ -1,14 +1,21 @@
-﻿## 魔兽地图
-### 我的魔兽地图
-
-
-> 点击要下载的文件,进入页面后点击`RAW`按钮即可下载
+﻿## 分支说明
 
 ---
 
+### jass manual pages
+
+http://jass.sourceforge.net/doc/api/functions.shtml
+
+### 我的魔兽地图备份
+
+
+> 该分支有两个内容 一个是2021年7月18日的地图备份
+一个是网页版的 jass 手册
+
+
 分支说明:
 
-* master : 我的地图
-* homepage : jass manual
+* 地图备份
+* jass manual
 
 
