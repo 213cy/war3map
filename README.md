@@ -9,6 +9,6 @@
 分支说明:
 
 * master : 我的地图
-* homepage : jass manual
+* war3maps-pages : jass manual
 
 

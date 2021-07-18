@@ -1,3 +1,0 @@
-[Misc]
-AttackNotifyDelay=10.0
-
