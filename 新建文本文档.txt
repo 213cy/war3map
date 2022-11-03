@@ -1,0 +1,5 @@
+更新完重置版的魔兽后，旧版的地图编辑器就打开不了
+
+进入注册表
+把 Computer\HKEY_CURRENT_USER\SOFTWARE\Blizzard Entertainment\WorldEdit 
+重命名或者干掉
